@@ -1,8 +1,6 @@
 = Workouts
 
-== 2022
-
-=== January 28, Friday
+== 2022-01-28, Friday
 
 [cols="1,1,1"]
 |===
@@ -33,7 +31,7 @@ I don't know when I'm going to stop progressing along these lines; I don't know 
 
 The Coc Trainer (CoC T) just came in the mail today, so I'll be decreasing my reps to 10 and increasing my squeeze to use that one for my next workout. 
 
-=== January 27, Thursday
+== 2022-01-27, Thursday
 
 Before breakfast
 
@@ -63,7 +61,7 @@ After lunch
 |Splits / Leg / Hip Stretching|Normal routine (week 1)|Normal Length of Time
 |===
 
-=== January 26, Wednesday
+== 2022-01-26, Wednesday
 
 Before breakfast
 
@@ -91,7 +89,7 @@ After lunch
 |Kettlebell Swing|25 lb|12R 12L 12B
 |===
 
-=== January 25, Tuesday
+== 2022-01-25, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -106,7 +104,7 @@ After lunch
 |Squeeze|CoC S|19R 19L
 |===
 
-=== January 24, Monday
+== 2022-01-24, Monday
 
 [cols="1,1,1"]
 |===
@@ -121,19 +119,19 @@ After lunch
 |Squeeze|CoC S|18R 18L
 |===
 
-=== January 23, Sunday
+== 2022-01-23, Sunday
 
 No workout.
 
-=== January 22, Saturday
+== 2022-01-22, Saturday
 
 No workout.
 
-=== January 21, Friday
+== 2022-01-21, Friday
 
 No workout.
 
-=== January 20, Thursday
+== 2022-01-20, Thursday
 
 [cols="1,1,1"]
 |===
@@ -151,7 +149,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|1 min
 |===
 
-=== January 19, Wednesday
+== 2022-01-19, Wednesday
 
 [cols="1,1,1"]
 |===
@@ -166,7 +164,7 @@ No workout.
 |Squeeze|CoC S|16R 16L
 |===
 
-=== January 18, Tuesday
+== 2022-01-18, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -180,15 +178,15 @@ No workout.
 |Kettlebell Halo|20 lb|alt 16R 16L
 |===
 
-=== January 17, Monday
+== 2022-01-17, Monday
 
 No workout.
 
-=== January 16, Sunday
+== 2022-01-16, Sunday
 
 No workout.
 
-=== January 15, Saturday
+== 2022-01-15, Saturday
 
 [cols="1,1,1"]
 |===
@@ -202,7 +200,7 @@ No workout.
 |Kettlebell Halo|20 lb|alt 14L 14R
 |===
 
-=== January 14, Friday
+== 2022-01-14, Friday
 
 [cols="1,1,1"]
 |===
@@ -218,7 +216,7 @@ No workout.
 |Kettlebell Halo|20 lb|alt 14L 14R
 |===
 
-=== January 13, Thursday
+== 2022-01-13, Thursday
 
 [cols="1,1,1"]
 |===
@@ -234,11 +232,11 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|1 min
 |===
 
-=== January 12, Wednesday
+== 2022-01-12, Wednesday
 
 No workout.
 
-=== January 11, Tuesday
+== 2022-01-11, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -252,15 +250,15 @@ No workout.
 |Kettlebell Goblet Squat|20 lb|7
 |===
 
-=== January 10, Monday
+== 2022-01-10, Monday
 
 No workout.
 
-=== January 09, Sunday
+== 2022-01-09, Sunday
 
 No workout.
 
-=== January 08, Saturday
+== 2022-01-08, Saturday
 
 [cols="1,1,1"]
 |===
@@ -274,11 +272,11 @@ No workout.
 |Kettlebell Halo|20 lb|alt 6R 6L
 |===
 
-=== January 07, Friday
+== 2022-01-07, Friday
 
 No workout.
 
-=== January 06, Thursday
+== 2022-01-06, Thursday
 
 [cols="1,1,1"]
 |===
@@ -293,7 +291,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|25 min
 |===
 
-=== January 05, Wednesday
+== 2022-01-05, Wednesday
 
 [cols="1,1,1"]
 |===
@@ -308,7 +306,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|22 min 30 sec
 |===
 
-=== January 04, Tuesday
+== 2022-01-04, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -322,7 +320,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|21 min
 |===
 
-=== January 03, Monday
+== 2022-01-03, Monday
 
 [cols="1,1,1"]
 |===
