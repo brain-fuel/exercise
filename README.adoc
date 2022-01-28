@@ -2,6 +2,21 @@
 
 == 2022
 
+=== January 19, Wednesday
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Kettlebell Swing|20 lb|16R 16L 16B
+|Kettlebell Clean|20 lb|alt 16R 16L
+|Kettlebell Goblet Squat|20 lb|16
+|Kettlebell Halo|20 lb|alt 16R 16L
+|Squeeze|CoC S|16R 16L
+|===
+
 === January 18, Tuesday
 
 [cols="1,1,1"]
