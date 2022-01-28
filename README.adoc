@@ -2,9 +2,7 @@
 
 == 2022
 
-== January
-
-=== 03
+== January 04, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -12,8 +10,32 @@
 |Difficulty
 |Reps
 
-|KSW|20lb|12R12L12B
-|KCL|20lb|6R6L
-|KHA|20lb|alt6R6L
-|Walk|10%inc@2.0mph|20min
+|Kettlebell Swing|20 lb|12R 12L 12B
+|Kettlebell Clean|20 lb|6R 6L
+|Kettlebell Halo|20 lb|alt 6R 6L
+|Treadmill Walk|10% incline @ 2.0mph|21 min
+
+== January 03, Monday
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Kettlebell Swing|20 lb|12R 12L 12B
+|Kettlebell Clean|20 lb|6R 6L
+|Kettlebell Halo|20 lb|alt 6R 6L
+|Treadmill Walk|10% incline @ 2.0mph|20 min
+|===
+
+== Date, Day of Week
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Exercise|Difficulty|Reps
 |===
