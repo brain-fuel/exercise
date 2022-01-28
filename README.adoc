@@ -12,9 +12,9 @@
 
 |Squeeze|CoC S|30R 30L
 |Kettlebell Swing|25 lb|15R 15L 15B
-|Kettlebell Clean & Press|25 lb|alt 15R 15L
+|Kettlebell Clean & Press|25 lb|alt 16R 16L
 |Kettlebell Goblet Squat|25 lb|15
-|Kettlebell Halo|25 lb|alt 15L 15R
+|Kettlebell Halo|25 lb|alt 16L 16R
 |Upper Body Stretching|Normal routine|Normal Length of Time
 |Splits / Leg / Hip Stretching|Normal routine (week 1)|Normal Length of Time
 |===
