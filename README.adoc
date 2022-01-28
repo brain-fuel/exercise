@@ -2,7 +2,7 @@
 
 == 2022
 
-== January 13, Thursday
+=== January 13, Thursday
 
 [cols="1,1,1"]
 |===
@@ -18,11 +18,11 @@
 |Treadmill Walk|10% incline @ 2.0mph|1 min
 |===
 
-== January 12, Wednesday
+=== January 12, Wednesday
 
 No workout.
 
-== January 11, Tuesday
+=== January 11, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -36,15 +36,15 @@ No workout.
 |Kettlebell Goblet Squat|20 lb|7
 |===
 
-== January 10, Monday
+=== January 10, Monday
 
 No workout.
 
-== January 09, Sunday
+=== January 09, Sunday
 
 No workout.
 
-== January 08, Saturday
+=== January 08, Saturday
 
 [cols="1,1,1"]
 |===
@@ -58,11 +58,11 @@ No workout.
 |Kettlebell Halo|20 lb|alt 6R 6L
 |===
 
-== January 07, Friday
+=== January 07, Friday
 
 No workout.
 
-== January 06, Thursday
+=== January 06, Thursday
 
 [cols="1,1,1"]
 |===
@@ -77,7 +77,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|25 min
 |===
 
-== January 05, Wednesday
+=== January 05, Wednesday
 
 [cols="1,1,1"]
 |===
@@ -92,7 +92,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|22 min 30 sec
 |===
 
-== January 04, Tuesday
+=== January 04, Tuesday
 
 [cols="1,1,1"]
 |===
@@ -106,7 +106,7 @@ No workout.
 |Treadmill Walk|10% incline @ 2.0mph|21 min
 |===
 
-== January 03, Monday
+=== January 03, Monday
 
 [cols="1,1,1"]
 |===
