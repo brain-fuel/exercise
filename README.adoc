@@ -2,6 +2,21 @@
 
 == 2022
 
+== January 06, Thursday
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Kettlebell Swing|20 lb|12R 12L 12B
+|Kettlebell Clean|20 lb|6R 6L
+|Kettlebell Goblet Squat|20 lb|6
+|Kettlebell Halo|20 lb|alt 6R 6L
+|Treadmill Walk|10% incline @ 2.0mph|25 min
+|===
+
 == January 05, Wednesday
 
 [cols="1,1,1"]
