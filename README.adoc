@@ -2,6 +2,22 @@
 
 == 2022
 
+=== January 14, Friday
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Treadmill Walk|10% incline @ 2.1mph|21 min
+|Treadmill Walk|10% incline @ 2.0mph|1 min
+|Kettlebell Swing|20 lb|14R 14L 14B
+|Kettlebell Clean|20 lb|alt 14R 14L
+|Kettlebell Goblet Squat|20 lb|14
+|Kettlebell Halo|20 lb|alt 14L 14R
+|===
+
 === January 13, Thursday
 
 [cols="1,1,1"]
