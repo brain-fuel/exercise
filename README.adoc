@@ -2,6 +2,34 @@
 
 == 2022
 
+=== January 26, Wednesday
+
+Before breakfast
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Kettlebell Swing|25 lb|12R 12L 12B
+|Kettlebell Clean & Press|25 lb|6R 6L 6R 6L
+|Kettlebell Goblet Squat|25 lb|12
+|Kettlebell Halo|25 lb|alt 12L 12R
+|Squeeze|CoC S|20R 20L
+|===
+
+After lunch
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|Kettlebell Swing|25 lb|11R 11L 11B
+|===
+
 === January 25, Tuesday
 
 [cols="1,1,1"]
