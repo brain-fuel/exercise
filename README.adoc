@@ -1,0 +1,19 @@
+= Workouts
+
+== 2022
+
+== January
+
+=== 03
+
+[cols="1,1,1"]
+|===
+|Exercise
+|Difficulty
+|Reps
+
+|KSW|20lb|12R12L12B
+|KCL|20lb|6R6L
+|KHA|20lb|alt6R6L
+|Walk|10%inc@2.0mph|20min
+|===
